@@ -1,2 +1,4 @@
 # hello-world
-My first Git Hub Repo!
+Hello!
+
+I am new to GITHUB and i am loving it so far.
